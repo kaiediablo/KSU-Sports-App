@@ -1,6 +1,7 @@
 # KSU-Sports-App
-ISA 3020 - Robert A. Fowler
 
-This app is built to view and download the results of Kennesaw State Football's 2019-20 Season, including playoffs.
+IS 3020 - Kai Burgan
 
-How to install and use?
+-Note: This app will be similar, except data from the men's basketball team will be used instead of men's footbal team data.
+
+This app is meant to view and dowload the stats of the Kennesaw State Men's Basketball team's from the 2018-19 season.
