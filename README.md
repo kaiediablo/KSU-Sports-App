@@ -8,4 +8,12 @@ IS 3020 - Kai Burgan
 
 -This data will consist of:
 
- team scores of all the games form the 2018-19 season
+ Team scores of all the games form the 2018-19 season
+ 
+ Opponent Name
+ 
+ Win or loss
+ 
+ Date of game
+
+ Location (home or away)
